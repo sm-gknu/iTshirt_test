@@ -1,0 +1,23 @@
+     # PyTorch 모델
+*.pt
+*.pth
+
+# 데이터셋
+data/
+dataset/
+
+# 결과 이미지
+runs/
+output/
+
+# 캐시
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
